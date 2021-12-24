@@ -1,0 +1,25 @@
+{
+	"name": "webspeechcoloursgame",
+	"version": "1.0.0",
+	"description": "",
+	"main": "speech.js",
+	"scripts": {
+		"start": "parcel index.html --no-cache"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alperalin/webspeechcoloursgame.git"
+	},
+	"author": "Alper ALIN",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/alperalin/webspeechcoloursgame/issues"
+	},
+	"homepage": "https://github.com/alperalin/webspeechcoloursgame#readme",
+	"browserslist": [
+		"last 1 chrome versions"
+	],
+	"devDependencies": {
+		"parcel": "^2.0.1"
+	}
+}
